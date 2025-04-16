@@ -9,8 +9,8 @@ A simple Lead Management system built with **Next.js**, **Node.js**, **Express**
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/lead-manager.git
-cd lead-manager/lead-manager-backend
+git clone git@github.com:SaboorSohaib/lead-management-back-end.git
+cd lead-management-back-end
 ```
 
 ### 2. Install Dependencies
